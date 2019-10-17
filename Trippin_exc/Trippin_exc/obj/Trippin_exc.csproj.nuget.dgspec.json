@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dokumente\\HTL\\5BHIF\\c#_Mobile_Computing\\Trippin_exc\\trippin-exercise-M1ztl\\Trippin_exc\\Trippin_exc\\Trippin_exc.csproj": {}
+  },
+  "projects": {
+    "D:\\Dokumente\\HTL\\5BHIF\\c#_Mobile_Computing\\Trippin_exc\\trippin-exercise-M1ztl\\Trippin_exc\\Trippin_exc\\Trippin_exc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dokumente\\HTL\\5BHIF\\c#_Mobile_Computing\\Trippin_exc\\trippin-exercise-M1ztl\\Trippin_exc\\Trippin_exc\\Trippin_exc.csproj",
+        "projectName": "Trippin_exc",
+        "projectPath": "D:\\Dokumente\\HTL\\5BHIF\\c#_Mobile_Computing\\Trippin_exc\\trippin-exercise-M1ztl\\Trippin_exc\\Trippin_exc\\Trippin_exc.csproj",
+        "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dokumente\\HTL\\5BHIF\\c#_Mobile_Computing\\Trippin_exc\\trippin-exercise-M1ztl\\Trippin_exc\\Trippin_exc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

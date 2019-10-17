@@ -1,0 +1,12 @@
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\obj\Debug\netcoreapp3.0\Trippin_exc.csprojAssemblyReference.cache
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\obj\Debug\netcoreapp3.0\Trippin_exc.AssemblyInfoInputs.cache
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\obj\Debug\netcoreapp3.0\Trippin_exc.AssemblyInfo.cs
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\Trippin_exc.exe
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\Trippin_exc.deps.json
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\Trippin_exc.runtimeconfig.json
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\Trippin_exc.runtimeconfig.dev.json
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\Trippin_exc.dll
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\Trippin_exc.pdb
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\obj\Debug\netcoreapp3.0\Trippin_exc.dll
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\obj\Debug\netcoreapp3.0\Trippin_exc.pdb
+D:\Dokumente\HTL\5BHIF\c#_Mobile_Computing\Trippin_exc\trippin-exercise-M1ztl\Trippin_exc\Trippin_exc\bin\Debug\netcoreapp3.0\users.json
